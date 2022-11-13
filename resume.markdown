@@ -44,3 +44,22 @@ patterns, embedded toolchains, and real-time operating systems
 implicit surfaces
 - Deep understanding of graphics rasterization pipeline, shaders, ray-tracing, spatial data structures, real-time rendering, and animation techniques
 - Solid grasp of concurrency, programming models, multi-threading, data-parallel computations, code vectorization. computer architecture, microarchitecture, performance optimization
+
+# PATENTS
+[List of patents from google patents](https://patents.google.com/?inventor=Shirazian%2c+Pourya&oq=Shirazian%2c+Pourya)
+
+1. Unified anisotropic volume and surface mesh storage
+2. Systems and methods for determining a volume of resected tissue during a surgical procedure
+3. Multi-modal visualization in computer-assisted tele-operated surgery, (grant date 2022-07-19)
+4. Systems and methods for telestration with spatial memory
+5. Systems and methods for integrating imagery captured by different imaging modalities into composite imagery of a surgical space
+6. Systems and methods for detecting tissue contact by an ultrasound probe
+7. Physical medical element sizing systems and methods
+8. Systems and methods for registering imaging data from different imaging modalities based on subsurface image scanning
+9. Composite medical imaging systems and methods
+10. Physical medical element placement systems
+11. User input systems and methods for a computer-assisted medical system
+12. Anatomical scene visualization systems and methods
+13. Systems and methods for registering visual representations of a surgical space
+14. Systems and methods for providing surgical assistance based on operational context
+15. Systems for facilitating guided teleoperation of a non-robotic device in a surgical space
