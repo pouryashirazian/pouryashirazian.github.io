@@ -2,7 +2,7 @@
 layout: home
 title: Resume
 ---
-Principal software engineer, incorporating skills in designing high-performance, data-driven, computer vision, and augmented-reality applications on many-core architectures.
+Challenging position as a principal software engineer incorporating skills in designing high-performance, machine learning, computer vision, and augmented-reality systems on many-core architectures.
 
 # EDUCATION
 - University of Victoria, Ph.D.
@@ -15,13 +15,12 @@ Tehran, Iran (graduated in 2008) - Major in Electronics and Computer Engineering
 
 - `July 2016 - Present` Senior Software Engineering Manager [[Intuitive Surgical Corp.](https://www.intuitive.com)]
 
-Leading research and product development for intra-operative image-guided robotics surgery. Contributed extensively to the [da-Vinci Iris][davinci-iris],
-a service to order and receive anatomical 3D models generated from a CT scan.
+Leading research and product development for the next generation of intra-operative image-guided robotics surgery. Contributed extensively to the [da-Vinci Iris][davinci-iris], a service to order and receive anatomical 3D models generated from a CT scan. Designed and developed a multi-user system for surgical video segmentation and labeling for training ML pipelines. Designed and developed real-time video segmentation for augmented-reality overlay systems. Received the Intuitive Inventor of the Year award for filing the most number of patents in a fiscal year.
+
 
 - `July 2015 – July 2016` Senior Software Engineer [[Xilinx Corp.](https://www.xilinx.com)]
 
-Research and development on compute-bound scientific applications that can be optimized using dynamic, flexible architectures.
-Developed a high-level synthesis framework for programming FPGAs with OpenCL and the required LLVM-based compiler backend infrastructure.
+Research and development on accelerating convolutional neural networks using dynamic, flexible architectures. Contributed to a high-level synthesis framework for programming FPGAs with OpenCL and the required LLVM backend compiler infrastructure.
 
 - `Jan 2015 – June 2015` Senior Graphics Software Engineer, [[Mercedes-Benz R&D](https://www.mbrdna.com)]
 
