@@ -2,7 +2,7 @@
 layout: home
 title: Resume
 ---
-Challenging position as a principal software engineer incorporating skills in designing high-performance, machine learning, computer vision, and augmented-reality systems on many-core architectures.
+Principal software engineer incorporating skills in designing high-performance, machine learning, computer vision, and augmented-reality systems on many-core architectures.
 
 # EDUCATION
 - University of Victoria, Ph.D.
