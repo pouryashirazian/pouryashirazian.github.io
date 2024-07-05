@@ -2,7 +2,7 @@
 layout: home
 title: Resume
 ---
-Principal software engineer incorporating skills in designing high-performance, machine learning, computer vision, and augmented-reality systems on many-core architectures.
+World-class computer vision and AI expert seeking a Principal Software Engineer or Director of Engineering role. Dedicated to driving innovation and delivering robust, data-driven, physically-based applications optimized for many-core architectures.
 
 # EDUCATION
 - University of Victoria, Ph.D.
@@ -13,35 +13,41 @@ Tehran, Iran (graduated in 2008) - Major in Electronics and Computer Engineering
 
 # EXPERIENCE
 
-- `July 2016 - Present` Senior Software Engineering Manager [[Intuitive Surgical Corp.](https://www.intuitive.com)]
+- `July 2016 - Present` Managing Principal Software Engineer (L6-Director) [[Intuitive Surgical Corp.](https://www.intuitive.com)]
 
-Leading research and product development for the next generation of intra-operative image-guided robotics surgery. Contributed extensively to the [da-Vinci Iris][davinci-iris], a service to order and receive anatomical 3D models generated from a CT scan. Designed and developed a multi-user system for surgical video segmentation and labeling for training ML pipelines. Designed and developed real-time video segmentation for augmented-reality overlay systems. Received the Intuitive Inventor of the Year award for filing the most number of patents in a fiscal year.
+Leading research and product development for the daVinci 5 advanced processor system.
+Contributed to mixed-reality endoscopic video pipeline for preoperative imaging overlay.
+Developed 3D model registration and tracking algorithms using CV and ML models.
+Created soft tissue tracking algorithms utilizing stereo depth mapping, optical flow, and AI-enabled scene segmentation.
 
+*Achievement*:
+Received the Intuitive Inventor of the Year award for filing the most patents in a fiscal year.
 
-- `July 2015 – July 2016` Senior Software Engineer [[Xilinx Corp.](https://www.xilinx.com)]
+- `July 2015 – July 2016` Senior Software Engineer [[Xilinx Corp. (Now part of AMD)](https://www.amd.com)]
 
-Research and development on accelerating convolutional neural networks using dynamic, flexible architectures. Contributed to a high-level synthesis framework for programming FPGAs with OpenCL and the required LLVM backend compiler infrastructure.
+Conducted research and development to accelerate convolutional neural networks on FPGAs.
+Contributed to the SDAccel high-level synthesis framework, enabling FPGA programming with OpenCL.
+Developed various benchmark applications in computer vision and AI on Xilinx FPGA cards, including: Edge detection, Optical flow, Image Classification, and Compression
 
 - `Jan 2015 – June 2015` Senior Graphics Software Engineer, [[Mercedes-Benz R&D](https://www.mbrdna.com)]
 
-Worked with UX design team to implement fluid interacations and cinematic effects with GPU shaders. Other responsibilities:
-Graphics framework architect, cross-platform software engineering, embedded system bring-up and configuration, kernel mode driver development.
+Worked with the UX design team to implement fluid interactions and cinematic effects with GPU shaders; Other responsibilities: Graphics framework architect, cross-platform software engineering, embedded system bring-up and configuration, and system software integration.
 
 
 [github-projects]: https://github.com/pouryashirazian
 [davinci-iris]: https://www.intuitive.com/en-us/products-and-services/da-vinci/vision/iris
 
 # SKILLS
-- Extensive experience in building edge computing nodes for computer vision, AI, and AR
-- Professionally experienced in C, C++, Python programming, modern software design
-patterns, embedded toolchains, and real-time operating systems
+- Excellent verbal and written communication skills
+- Soft skills in bringing collaboration, teamwork, empathy, problem-solving, and adaptability to teams
+- Extensive experience in building edge computing nodes for computer vision, and AI
+- Professionally experienced in C, C++, Python programming, modern software design patterns, embedded toolchains, and real-time operating systems
 - Proficient in GPU programming tools and languages such as Nvidia CUDA, OpenCL/GL
 - Hands-on experience in ML-ops and deployment of deep-learning solutions
-- Proficient in machine learning frameworks: Tensorflow, TensorRT, Scikit-Learn, and Keras
-- Extensive work in geometric modeling using polygons, splines, NURBS, subdivision, and
-implicit surfaces
+- Proficient in machine learning frameworks: Tensorflow, Torch, TensorRT, Scikit-Learn
+- Extensive work in geometric modeling using polygons, splines, NURBS, subdivision, and implicit surfaces
 - Deep understanding of graphics rasterization pipeline, shaders, ray-tracing, spatial data structures, real-time rendering, and animation techniques
-- Solid grasp of concurrency, programming models, multi-threading, data-parallel computations, code vectorization. computer architecture, microarchitecture, performance optimization
+- Solid grasp of concurrency, programming models, multi-threading, data-parallel computations, code vectorization, computer architecture, microarchitecture, performance optimization
 
 # PATENTS
 [List of patents from google patents](https://patents.google.com/?inventor=Shirazian%2c+Pourya&oq=Shirazian%2c+Pourya)
