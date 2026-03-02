@@ -1,5 +1,6 @@
 ---
-layout: home
-title: Projects
+layout: post
+title: "Engineering Complexity"
+date: 2026-03-01
 ---
-Testing
+This is my first blog on Engineering Complexity.
